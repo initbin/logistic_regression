@@ -10,4 +10,4 @@
 下载数据集:[data](https://pan.baidu.com/s/1MKwk7s0U6Wr7_9DYiyX--Q)  
 提取密码：tjc8
 ## result
-![result](https://github.com/initbin/logistic_regression/tree/master/result/result.png)
+![result](https://github.com/initbin/logistic_regression/blob/master/result/result.png)
